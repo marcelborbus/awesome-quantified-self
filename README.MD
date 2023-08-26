@@ -136,6 +136,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
 - [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
 - [Symple](http://www.sympleapp.com/) - Symptom journal and health tracker (iOS).
+- [Digital Biomarker Discovery Project](https://dbdp.org/) - An open source platform for the development of digital biomarkers.
 
 ### Heart
 - [Cardiio](http://www.cardiio.com/) - Touchless heart rate monitor (iOS).
