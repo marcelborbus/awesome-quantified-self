@@ -59,6 +59,9 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Tedx Talk: Wearable Tech Expands Human Potential](https://www.youtube.com/watch?v=FESv2CgyJag) - Lauren Costantini explores what it means to be human in the age of the Quantified Self.
 - [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) - A keynote by Chris Dancy ("the Most Connected Man on Earth") in which he explores how technology helped him become a better person by paying attention to the data he collected about his life.
 
+## Forums
+[Discord Chanel](https://discord.gg/UBv2rpz7dQ) - A coworking space for everything QS. 
+
 ## Applications and Platforms
 
 ### Fitness
